@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/ktt-promo-website/static/css/main.ef57e7c5.chunk.css",
-    "main.js": "/ktt-promo-website/static/js/main.fec5484c.chunk.js",
-    "main.js.map": "/ktt-promo-website/static/js/main.fec5484c.chunk.js.map",
+    "main.css": "/ktt-promo-website/static/css/main.3c6c9eeb.chunk.css",
+    "main.js": "/ktt-promo-website/static/js/main.5e140661.chunk.js",
+    "main.js.map": "/ktt-promo-website/static/js/main.5e140661.chunk.js.map",
     "runtime-main.js": "/ktt-promo-website/static/js/runtime-main.de9b0c9d.js",
     "runtime-main.js.map": "/ktt-promo-website/static/js/runtime-main.de9b0c9d.js.map",
     "static/js/2.fffc5821.chunk.js": "/ktt-promo-website/static/js/2.fffc5821.chunk.js",
     "static/js/2.fffc5821.chunk.js.map": "/ktt-promo-website/static/js/2.fffc5821.chunk.js.map",
     "index.html": "/ktt-promo-website/index.html",
-    "precache-manifest.8ea4c6df51a2fba66c31e86b8596f1d3.js": "/ktt-promo-website/precache-manifest.8ea4c6df51a2fba66c31e86b8596f1d3.js",
+    "precache-manifest.62143d8c25998b19608da6d4f24bc0b8.js": "/ktt-promo-website/precache-manifest.62143d8c25998b19608da6d4f24bc0b8.js",
     "service-worker.js": "/ktt-promo-website/service-worker.js",
-    "static/css/main.ef57e7c5.chunk.css.map": "/ktt-promo-website/static/css/main.ef57e7c5.chunk.css.map",
+    "static/css/main.3c6c9eeb.chunk.css.map": "/ktt-promo-website/static/css/main.3c6c9eeb.chunk.css.map",
     "static/js/2.fffc5821.chunk.js.LICENSE.txt": "/ktt-promo-website/static/js/2.fffc5821.chunk.js.LICENSE.txt",
+    "static/media/iphone-frame.png": "/ktt-promo-website/static/media/iphone-frame.afb8acf3.png",
     "static/media/App.css": "/ktt-promo-website/static/media/screenshot-3.44837545.png"
   },
   "entrypoints": [
     "static/js/runtime-main.de9b0c9d.js",
     "static/js/2.fffc5821.chunk.js",
-    "static/css/main.ef57e7c5.chunk.css",
-    "static/js/main.fec5484c.chunk.js"
+    "static/css/main.3c6c9eeb.chunk.css",
+    "static/js/main.5e140661.chunk.js"
   ]
 }
