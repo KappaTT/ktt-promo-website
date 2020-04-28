@@ -13,7 +13,7 @@ function App() {
       </div>
       <div className="frame-container">
         <div className="frame">
-          <img src="iphone-frame.png" alt="" />
+          <img src={require('./iphone-frame.png')} alt="" />
         </div>
       </div>
     </div>

@@ -57,6 +57,12 @@
   width: 100%;
 }
 
+@media only screen and (max-device-width: 1024px) {
+  .screenshot {
+    background-attachment: scroll !important;
+  }
+}
+
 .screenshot-1 {
   background-image: url('screenshot-1.png');
 }
